@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kagan Taskiran</h1>
- [![MasterHead](https://pyxis.nymag.com/v1/imgs/5ff/9bc/6098962edd260c49d52d4b2b58d4df0b62-13-miles-morales-lede.rhorizontal.w700.jpg)
+
 <h3 align="center">A passionate developer from Türkiye</h3>
 
 - 📫 How to reach me **taskirankagan8@gmail.com**
