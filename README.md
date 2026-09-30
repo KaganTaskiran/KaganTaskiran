@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kagan Taskiran</h1>
-<h3 align="center">A passionate developer from Türkiye</h3>
+<h3 align="center">A passionate developer from London</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@kagantaskiran](https://medium.com/@kagantaskiran)
 
